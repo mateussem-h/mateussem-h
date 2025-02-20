@@ -1,10 +1,4 @@
-## Hello Folks ! 👋
-
-
-**mateussem-h/mateussem-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Hello Folks 🤠
 - 🔧 I’m currently working on ...
 - 🌱 I’m just learning how to code ...
 - 👓 I’m looking to collaborate on ...
